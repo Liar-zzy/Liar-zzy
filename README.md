@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on low-level image restoration and privacy protection.
+- 🔭 I’m currently working on ✨AIGC and ✨low-level image restoration.
 
 
 
